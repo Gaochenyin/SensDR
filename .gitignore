@@ -3,7 +3,7 @@
 .Rapp.history
 
 # Session Data files
-.Rproj
+*.Rproj
 .RData
 .RDataTmp
 
