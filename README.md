@@ -1,5 +1,5 @@
 # SensDR
-Doubly robust omnibus sensitivity analysis of externally controlled trials with intercurrent events
+The repository is the official implementation of "Doubly robust omnibus sensitivity analysis of externally controlled trials with intercurrent events"
 
 ## File structure
 
